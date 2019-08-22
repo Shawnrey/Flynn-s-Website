@@ -13,8 +13,8 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .navbar-brand img {width:150px}
 
-#footer {background-color: blue;color:#fff}
+#footer {background-color:black;color:#fff}
 
-#lowerfooter {background-color:black;color:#fff}
+#lowerfooter {background-color:#708090;color:#fff}
 
-#lowerfooter i {font-size:60px;margin:14px}
+#lowerfooter i {font-size:60px;margin:14px;color:#fff}
