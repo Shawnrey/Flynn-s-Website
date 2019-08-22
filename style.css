@@ -18,3 +18,8 @@ font-family: 'Source Sans Pro', sans-serif;
 #lowerfooter {background-color:#708090;color:#fff}
 
 #lowerfooter i {font-size:60px;margin:14px;color:#fff}
+
+.pBox{}
+.pBox img {z-index:-1}
+.pBox button {z-index:2;position:absolute;right:34%}
+.pBox button:hover{}
